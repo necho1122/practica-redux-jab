@@ -1,0 +1,35 @@
+.container-list
+{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    flex-wrap: wrap;
+    margin-top: 20px;
+    gap: 1rem;
+}
+
+.candidatos img
+{
+    width: 150px;
+    height: auto;
+    border: 1px solid #000;
+}
+
+.candidatos-buttons
+{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.candidatos-container
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 1rem;
+    border: 1px solid #000;
+    max-width: 400px;
+}

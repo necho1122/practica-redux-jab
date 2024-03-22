@@ -1,0 +1,16 @@
+.candidato-list
+{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+}
+
+.candidato-guardado
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 1rem;
+    border: 1px solid #000;
+    margin: 10px;
+}
