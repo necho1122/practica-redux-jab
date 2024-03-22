@@ -1,4 +1,4 @@
-#Practica con Redux
+# Practica con Redux
 
 ## Objetivo
 El objetivo de esta práctica es implementar una lista de candidatos con Redux. extraido del curso de JAB de youtube.
@@ -23,12 +23,12 @@ Se implementa una lista de candidatos con Redux, se puede agregar y eliminar los
 para clonar el proyecto, ejecutar el siguiente comando:
 
 ```bash
-git clone 
+git clone https://github.com/necho1122/practica-redux-jab.git
 ```
 accder a la carpeta del proyecto:
 
 ```bash
-cd redux-candidates
+cd practica-redux-jab
 ```
 
 Para instalar las dependencias del proyecto, ejecutar el siguiente comando:
